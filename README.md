@@ -4,7 +4,7 @@
 <img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-O aplicativo é um sistema básico de gerenciamento de usuários implementado em Python, utilizando um paradigma de CRUD (Create, Read, Update, Delete) para realizar operações simples em um arquivo de texto. Abaixo estão os principais recursos e funcionalidades do aplicativo:
+O aplicativo é um sistema básico de gerenciamento de usuários implementado em Python, utilizando um paradigma de [CRUD (Create, Read, Update, Delete)](CRUD.md) para realizar operações simples em um arquivo de texto. Abaixo estão os principais recursos e funcionalidades do aplicativo:
 
 1. **Adicionar Usuário:**
    - Permite a adição de um novo usuário ao sistema.

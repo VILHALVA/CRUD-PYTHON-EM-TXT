@@ -1,5 +1,5 @@
 # CRUD PYTHON EM TXT
-🎈GERENCIE O NOME E IDADE DOS USUÁRIOS EM UM ARQUIVO TXT.
+👨‍🏫PROJETO CRIADO PARA O CURSO DE PYTHON DO CURSO EM VIDEO.
 
 <img src="FOTO.png" align="center" width="500"> <br>
 
@@ -68,12 +68,8 @@ O aplicativo é um sistema básico de gerenciamento de usuários implementado em
    pyinstaller --icon="imagem.ico" -F CODIGO.py
    ```
 
-## NÃO SABE?
-- Entendemos que para manipular arquivos em muitas linguagens, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
-
 ## CREDITOS:
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [PROJETO CRIADO PARA O CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+- [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 
 

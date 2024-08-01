@@ -37,7 +37,10 @@ O aplicativo é um sistema básico de gerenciamento de usuários implementado em
    - Permite ao usuário sair do aplicativo de maneira controlada, encerrando o programa de acordo com sua escolha.
 
 ## EXECUTANDO O PROJETO:
-1. Execute o arquivo Python.
+1. Navegue até o diretório `./CODIGO`, e execute o arquivo Python com o comando:
+```bash
+python CODIGO.py
+```
 2. Isso iniciará o aplicativo e exibirá um menu com as seguintes opções:
    - **1. ADICIONAR USUÁRIO:** Permite adicionar um novo usuário ao sistema. Você será solicitado a digitar o nome e a idade do usuário.
    - **2. LISTAR USUÁRIOS:** Exibe uma lista de todos os usuários cadastrados, mostrando seus nomes e idades.
